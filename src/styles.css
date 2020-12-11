@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  display: block;
+  padding: 1rem;
+}
+.container img {
+  display: block;
+  width: 70px;
+  height: 70px;
+}
+
+.bind {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
